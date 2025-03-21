@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos JAR generados
+*.jar
+
+# Directorios de salida de Hadoop
+/output/
+*.crc
+
+# Configuración local de WSL o Linux
+*.swp
+*~
+
+# Archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de logs o temporales
+*.log
+tmp/
